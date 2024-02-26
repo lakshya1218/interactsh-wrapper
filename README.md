@@ -26,7 +26,10 @@ endDateTime -> specifying this query paramter will filer the interactions to sho
 usage examples
 
 http://127.0.0.1:8000/getInteraction?link=ghdwsbgfoiawebgoihagirbg.oast.mov
+
 http://127.0.0.1:8000/getInteraction?link=ghdwsbgfoiawebgoihagirbg.oast.mov&startDateTime=1970-01-01%2000:00:00 
+
 http://127.0.0.1:8000/getInteraction?link=ghdwsbgfoiawebgoihagirbg.oast.mov&endDateTime=2024-02-01%2000:00:00
+
 http://127.0.0.1:8000/getInteraction?link=ghdwsbgfoiawebgoihagirbg.oast.mov&startDateTime=1970-01-01%2000:00:00&endDateTime=2024-02-01%2000:00:00
 
